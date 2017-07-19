@@ -1,0 +1,94 @@
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\bin\Debug\Smartcity.exe.config
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\bin\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\bin\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.csprojResolveAssemblyReference.cache
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Form1.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Properties.Resources.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.GenerateResource.Cache
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Form2.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Form3.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Form4.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Cafe.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Doctor.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Security.resources
+C:\Users\Konstantinos\Desktop\Προγράμματα C#\Smartcity\Smartcity\obj\Debug\Smartcity.Supermarket.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\bin\Debug\Smartcity.exe.config
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.exe
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.pdb
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.csprojResolveAssemblyReference.cache
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.boiler.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Cafe.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.coffeemachine.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Doctor.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Form2.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.homepage.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.login.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Plan.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Properties.Resources.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Security.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.Supermarket.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.thermostat.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.GenerateResource.Cache
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.homeapp.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.intro.resources
+C:\Users\xristos\Desktop\Smartcity\Smartcity\bin\Debug\Smartcity.exe
+C:\Users\xristos\Desktop\Smartcity\Smartcity\bin\Debug\Smartcity.pdb
+C:\Users\xristos\Desktop\Smartcity\Smartcity\bin\Debug\Interop.WMPLib.dll
+C:\Users\xristos\Desktop\Smartcity\Smartcity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Interop.WMPLib.dll
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\xristos\Desktop\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.ResolveComReference.cache
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\bin\Debug\Smartcity.exe.config
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.ResolveComReference.cache
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\bin\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\bin\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.csprojResolveAssemblyReference.cache
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.boiler.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Cafe.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.coffeemachine.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Doctor.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Form2.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.homeapp.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.homepage.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.intro.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.login.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Plan.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Properties.Resources.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Security.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.Supermarket.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.thermostat.resources
+C:\Users\Konstantinos\Desktop\SmartCity 1.0.0\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.GenerateResource.Cache
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\bin\Debug\Smartcity.exe.config
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Interop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.ResolveComReference.cache
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\bin\Debug\Smartcity.exe
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\bin\Debug\Smartcity.pdb
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\bin\Debug\Interop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.csprojResolveAssemblyReference.cache
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.boiler.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Cafe.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.coffeemachine.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Doctor.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Form2.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.homeapp.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.homepage.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.intro.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.login.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Plan.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Properties.Resources.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Security.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.Supermarket.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.thermostat.resources
+C:\Users\Konstantinos\Desktop\Πανεπιστήμιο\SmartCity\Smartcity\Smartcity\obj\Debug\Smartcity.csproj.GenerateResource.Cache
